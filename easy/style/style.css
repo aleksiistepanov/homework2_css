@@ -1,0 +1,45 @@
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding-top: none;
+}
+
+img {
+    vertical-align: middle;;
+}
+
+.topimage {
+    width: 900px;
+}
+
+.cars {
+    display: inline-block;
+    border: 3px dashed;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.icons {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    background-color: #A52A2A;  
+}
+
+.footer p{
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    
